@@ -1,0 +1,132 @@
+
+French
+
+},
+  "availability": {
+    "available": "PRÉSENT",
+    "unavailable": "ABSENT",
+    "not_available": "ABSENT",
+    "maybe": "PEUT-ETRE",
+    "not_sure": "PAS SÛR",
+    "my_availability": "MES DISPO",
+    "update": "JUSTIFIER",
+    "my_notes": "NOTES POUR LE STAFF",
+    "notes_placeholder": "Écrire au staff",
+    "manager_notes": "Les notes du staff",
+    "no_notes": "Pas de notes du staff.",
+
+    "enable_availability": "ACTIVER MES DISPOS",
+    "manager_notes_placeholder": "Écrire les notes ici...",
+    "notes_for_your_players": "PRÉSENCES POUR LES JOUEURS",
+  },
+
+
+Spanish
+
+},
+  "availability": {
+    "available": "DISPONIBLE",
+    "unavailable": "NO DISPONIBLE",
+    "not_available": "NO DISPONIBLE",
+    "maybe": "PENDIENTE",
+    "not_sure": "EN DUDA",
+    "my_availability": "MI DISPONIBILIDAD",
+    "update": "ACTUALIZAR",
+    "my_notes": "NOTAS PARA EL MANAGER",
+    "notes_placeholder": "Indica una nota para tu manager",
+    "manager_notes": "NOTAS DEL MANAGER",
+    "no_notes": "No hay notas para el manager.",
+
+    "enable_availability": "PERMITIR DISPONIBILIDAD",
+    "manager_notes_placeholder": "Escribe tus notas aquí...",
+    "notes_for_your_players": "DISPONIBILIDAD PARA TUS JUGADORES ",
+  },
+
+
+Italian
+
+},
+  "availability": {
+    "available": "DISPOBILE",
+    "unavailable": "NON DISPONIBILE",
+    "not_available": "NON DISPONIBILE",
+    "maybe": "IN ATTESA",
+    "not_sure": "NON NE SONO SICURO",
+    "my_availability": "LA MIA DISPONIBILITA' ",
+    "update": "AGGIORNA ",
+    "my_notes": "MIE NOTE",
+    "notes_placeholder": "INSERISCI NOTE",
+    "manager_notes": "NOTE DEL MANAGER",
+    "no_notes": "NESSUNA NOTA DEL MANAGER",
+
+    "enable_availability": "ABILITA DISPONIBILITA' ",
+    "manager_notes_placeholder": "SCRIVI LE TUE NOTE",
+    "notes_for_your_players": "ABILITA PER I TUOI GIOCATORI",
+  },
+
+
+
+Arabic
+
+},
+  "availability": {
+    "available": "متواجد",
+    "unavailable": "غير متواجد",
+    "not_available": "ليس متواجد",
+    "maybe": "ممكن",
+    "not_sure": "من الممكن",
+    "my_availability": "تواجدي",
+    "update": " تحديث سببي",
+    "my_notes": "ملاحظات لمدربي",
+    "notes_placeholder": "ادخل الملاحظات لمدربك",
+    "manager_notes": "ملاحظات لمدربك",
+    "no_notes": "لا يوجد ملاحظات من مدربك .",
+
+    "enable_availability": "تمكين التواجد",
+    "manager_notes_placeholder": "اكتب ملاحظاتك هنا...",
+    "notes_for_your_players": "تواجد لاعبيك",
+  },
+
+
+
+Portuguese
+},
+  "availability": {
+    "available": "DISPONÍVEL",
+    "unavailable": "INDISPONÍVEL",
+    "not_available": "INDISPONÍVEL",
+    "maybe": "PENDENTE",
+    "not_sure": "INCERTO",
+    "my_availability": "MINHA DISPONIBILIDADE",
+    "update": "ADICIONAR NOTA",
+    "my_notes": "NOTAS PARA O TREINADOR",
+    "notes_placeholder": "Insira notas para o treinador",
+    "manager_notes": "NOTAS DO SEU TREINADOR",
+    "no_notes": "Nenhuma nota do seu treinador.",
+
+    "enable_availability": "ATIVAR DISPONIBILIDADE",
+    "manager_notes_placeholder": "Escreva suas notas aqui...",
+    "notes_for_your_players": "DISPONIBILIDADE PARA SEUS JOGADORES",
+  },
+
+
+German
+
+},
+  "availability": {
+    "available": "VERFÜGBAR",
+    "unavailable": "NICHT VERFÜGBAR",
+    "not_available": "NICHT VERFÜGBAR",
+    "maybe": "AUSSTEHEND",
+    "not_sure": "NOCH NICHT SICHER",
+    "my_availability": "MEINE VERFÜGBARKEIT",
+    "update": "MEINE VERFÜGBARKEIT AKTUALISIEREN",
+    "my_notes": "NOTIZEN FÜR DEINEN MANAGER",
+    "notes_placeholder": "Notizen für ihren Manager einfügen ",
+    "manager_notes": "NOTIZEN VON DEINEM MANAGER",
+    "no_notes": "keine Notizen von deinem manager.",
+
+    "enable_availability": "VERFÜGBARKEIT EINSCHALTEN",
+    "manager_notes_placeholder": "schreibe deine notizen hier...",
+    "notes_for_your_players": "VERFÜGBARKEIT FÜR DEINE SPIELER",
+  },
